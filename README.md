@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=AaronC81&project=sord&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Sord
 
 ## Overview
